@@ -1,0 +1,15 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "my game ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "author": "Mehreen Waseem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
